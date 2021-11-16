@@ -58,7 +58,7 @@
   },
   "devDependencies": {
     "@glimmer/test-helpers": "^0.21.1",
-    "aws-sdk": "~2.2.43",
+    "aws-sdk": "~2.814.0",
     "babel-plugin-feature-flags": "^0.2.3",
     "babel-plugin-filter-imports": "~0.2.0",
     "backburner.js": "^0.3.1",
